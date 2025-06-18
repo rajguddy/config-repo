@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: escalation-service
+
+server:
+  port: 8082
